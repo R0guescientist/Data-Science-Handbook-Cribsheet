@@ -12,4 +12,4 @@ Intro to Matplotlib. Condensed from Python Data Science Handbook (@jakevdp)
 |[Errorbars](Matplotlib-Errorbars.ipynb)   | Jupyter | Debug GaussianProcessRegressor in sklearn 0.19  |
 |[Geo Data with Basemap](Matplotlib-Geo-Data-With-Basemap.ipynb)   | Jupyter | Update to Matplotlib 2.0  |
 |[Histograms](Matplotlib-Histograms-and-Bins.ipynb)   | Jupyter | n/a  |
-|[Lineplots](Matplotlib-Lineplots.ipynb)   | Jupyter | n/a  |
+|[Lineplots](Matplotlib-Line-Plots.ipynb)   | Jupyter | n/a  |
