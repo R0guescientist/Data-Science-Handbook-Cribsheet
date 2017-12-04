@@ -2,7 +2,7 @@
 Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data Science Handbook (@jakevdp)
 
 | File  | Notes  | To Do  |
-|:-:|:-:|---|
+|:-:|---|---|
 |placeholder - Numpy | n/a | n/a |
 |                    |     |     |
 |__Pandas__|-        |-    |-     |
