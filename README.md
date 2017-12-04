@@ -4,7 +4,8 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 | File  | Notes  | To Do  |
 |:-:|:-:|---|
 |placeholder - Numpy | n/a | n/a |
-|placeholder - Pandas| n/a | n/a |
+|                    |     |     |
+|placeholder - Pandas Objects| n/a | n/a |
 |                    |     |     |
 |[Matplotlib Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
 |[Matplotlib 3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
