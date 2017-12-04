@@ -9,6 +9,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Objects](Pandas-Objects.ipynb)                            | Series, DataFrames, Indexes | n/a |
 |[Indexing & Selection](Pandas-Indexing-and-Selection.ipynb)| n/a | n/a |
 |[Operations](Pandas-Operations.ipynb)                      | n/a | n/a |
+|[Missing Values](Pandas-Missing-Values.ipynb)              | n/a | n/a |
 |__Matploblib__ |-     |-     |
 |[Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
 |[3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
