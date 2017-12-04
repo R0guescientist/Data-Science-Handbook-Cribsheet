@@ -6,6 +6,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |placeholder - Numpy | n/a | n/a |
 |                    |     |     |
 |[Pandas Objects](Pandas-Objects.ipynb)| Series, DataFrames, Indexes | n/a |
+|[Pandas Indexing & Selection](Pandas-Indexing-and-Selection.ipynb)| n/a | n/a |
 |                    |     |     |
 |[Matplotlib Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
 |[Matplotlib 3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
