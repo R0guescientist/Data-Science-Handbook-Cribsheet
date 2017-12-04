@@ -20,4 +20,5 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Matplotlib Scatter Plots](Matplotlib-Scatter-Plots.ipynb)   | n/a | n/a  |
 |[Matplotlib Settings & Stylesheets](Matplotlib-Settings-and-Stylesheets.ipynb)   | n/a | n/a  |
 |[Matplotlib Text & Annotation](Matplotlib-Text-and-Annotation.ipynb)   | n/a | n/a  |
+|                          |     |     |
 |placeholder - Scikit-Learn| n/a | n/a |
