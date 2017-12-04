@@ -12,6 +12,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Missing Values](Pandas-Missing-Values.ipynb)              | n/a | n/a |
 |[Hierarchical Indexing](Pandas-Hierarchical-Indexing.ipynb)| MultiIndex, stack(), unstack(), reset_index() | n/a |
 |[Concat & Append](Pandas-Concat-And-Append.ipynb)          | concat(), append() | n/a |
+|[Merge & Join](Pandas-Merge-and-Join.ipynb)                | merge(), query()   |     |
 |__Matploblib__ |-     |-     |
 |[Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
 |[3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
