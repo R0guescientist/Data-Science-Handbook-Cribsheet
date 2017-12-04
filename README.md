@@ -14,6 +14,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Concat & Append](Pandas-Concat-And-Append.ipynb)          | concat(), append() | n/a |
 |[Merge & Join](Pandas-Merge-and-Join.ipynb)                | merge(), query()   |     |
 |[Aggregation & Grouping](Pandas-Aggregation-and-Grouping.ipynb)| sum(), mean(), median(), describe(), groupby(), aggregate(), filter(), transform(), apply() |     |
+|[Pivot Tables](Pandas-Pivot-Tables.ipynb)| pivot_table(), cut(), qcut()  |   |
 |__Matploblib__ |-     |-     |
 |[Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
 |[3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
