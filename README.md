@@ -1,19 +1,23 @@
-# matplotlib-cribsheet
-Intro to Matplotlib. Condensed from Python Data Science Handbook (@jakevdp)
+# Data Science Handbook Cribsheet
+Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data Science Handbook (@jakevdp)
 
 | File  | Notes  | To Do  |
 |:-:|:-:|---|
-|[Intro](Matplotlib-Intro.ipynb)   | Jupyter | n/a  |
-|[3D plotting](Matplotlib-3D-Plotting.ipynb) | Jupyter | n/a  |
-|[Colorbars](Matplotlib-Custom-Colorbars.ipynb) | Jupyter | n/a  |
-|[Legends](Matplotlib-Custom-Legends.ipynb)   | Jupyter | n/a  |
-|[Ticks (Tickmarks)](Matplotlib-Custom-Tickmarks.ipynb)   | Jupyter | n/a  |
-|[Density & Contour Plots](Matplotlib-Density-and-Contour-Plots.ipynb)   | Jupyter | n/a  |
-|[Errorbars](Matplotlib-Errorbars.ipynb)   | Jupyter | Debug GaussianProcessRegressor in sklearn 0.19  |
-|[Geo Data with Basemap](Matplotlib-Geo-Data-With-Basemap.ipynb)   | Jupyter | Update to Matplotlib 2.0  |
-|[Histograms](Matplotlib-Histograms-and-Bins.ipynb)   | Jupyter | n/a  |
-|[Line Plots](Matplotlib-Line-Plots.ipynb)   | Jupyter | n/a  |
-|[Subplots](Matplotlib-Multiple-Subplots.ipynb)   | Jupyter | n/a  |
-|[Scatter Plots](Matplotlib-Scatter-Plots.ipynb)   | Jupyter | n/a  |
-|[Settings & Stylesheets](Matplotlib-Settings-and-Stylesheets.ipynb)   | Jupyter | n/a  |
-|[Text & Annotation](Matplotlib-Text-and-Annotation.ipynb)   | Jupyter | n/a  |
+|placeholder - Numpy | n/a | n/a |
+|placeholder - Pandas| n/a | n/a |
+|                    |     |     |
+|[Matplotlib Intro](Matplotlib-Intro.ipynb)   | n/a | n/a  |
+|[Matplotlib 3D plotting](Matplotlib-3D-Plotting.ipynb) | n/a | n/a  |
+|[Matplotlib Colorbars](Matplotlib-Custom-Colorbars.ipynb) | n/a | n/a  |
+|[Matplotlib Legends](Matplotlib-Custom-Legends.ipynb)   | n/a | n/a  |
+|[Matplotlib Ticks (Tickmarks)](Matplotlib-Custom-Tickmarks.ipynb)   | n/a | n/a  |
+|[Matplotlib Density & Contour Plots](Matplotlib-Density-and-Contour-Plots.ipynb)   | n/a | n/a  |
+|[Matplotlib Errorbars](Matplotlib-Errorbars.ipynb)   | n/a | Debug GaussianProcessRegressor in sklearn 0.19  |
+|[Matplotlib Geo Data with Basemap](Matplotlib-Geo-Data-With-Basemap.ipynb)   | n/a | Update to Matplotlib 2.0  |
+|[Matplotlib Histograms](Matplotlib-Histograms-and-Bins.ipynb)   | n/a | n/a  |
+|[Matplotlib Line Plots](Matplotlib-Line-Plots.ipynb)   | n/a | n/a  |
+|[Matplotlib Subplots](Matplotlib-Multiple-Subplots.ipynb)   | n/a | n/a  |
+|[Matplotlib Scatter Plots](Matplotlib-Scatter-Plots.ipynb)   | n/a | n/a  |
+|[Matplotlib Settings & Stylesheets](Matplotlib-Settings-and-Stylesheets.ipynb)   | n/a | n/a  |
+|[Matplotlib Text & Annotation](Matplotlib-Text-and-Annotation.ipynb)   | n/a | n/a  |
+|placeholder - Scikit-Learn| n/a | n/a |
