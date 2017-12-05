@@ -31,4 +31,4 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Settings & Stylesheets](Matplotlib-Settings-and-Stylesheets.ipynb)   | - | -  |
 |[Text & Annotation](Matplotlib-Text-and-Annotation.ipynb)   | - | -  |
 |                          |     |     |
-|placeholder - Scikit-Learn| - | - |
+|__Scikit-Learn__ | - | - |
