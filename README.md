@@ -20,8 +20,8 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[High Perf Ops](Pandas-Performance-Eval-and-Query.ipynb)| numexpr, eval(), query(), nbytes() | - |
 |     |     |     |
 |__Matploblib__ |-     |-     |
-|[Intro](Matplotlib-Intro.ipynb)   | - | -  |
-|[3D plotting](Matplotlib-3D-Plotting.ipynb) | - | -  |
+|[Intro](Matplotlib-Intro.ipynb)   | style.use(), savefig(), image(), canvas.get_supported_filetypes(),  | -  |
+|[3D plotting](Matplotlib-3D-Plotting.ipynb) | mplot3d, axes(projection='3d'), plot3D(), scatter3D(), contour3D(), plot_wireframe(), plot_surface(),plot_trisurf() | -  |
 |[Colorbars](Matplotlib-Custom-Colorbars.ipynb) | - | -  |
 |[Legends](Matplotlib-Custom-Legends.ipynb)   | - | -  |
 |[Ticks (Tickmarks)](Matplotlib-Custom-Tickmarks.ipynb)   | - | -  |
