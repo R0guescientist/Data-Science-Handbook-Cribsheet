@@ -38,4 +38,4 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |__Scikit-Learn__ | - | - |
 |[Intro to ML](05.01-What-Is-Machine-Learning.ipynb) | - | - |
 |[Intro to Scikit-Learn](05.02-Introducing-Scikit-Learn.ipynb) | - | - |
-
+|[Hyperparameters & Model Validation](05.03-Hyperparameters-and-Model-Validation.ipynb) | - | - |
