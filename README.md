@@ -36,5 +36,5 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Text & Annotation](Matplotlib-Text-and-Annotation.ipynb)   | - | -  |
 |                          |     |     |
 |__Scikit-Learn__ | - | - |
-|[Intro to ML](05.01-What-is-Machine-Learning.ipynb) | - | - |
+|[Intro to ML](05.01-What-Is-Machine-Learning.ipynb) | - | - |
 
