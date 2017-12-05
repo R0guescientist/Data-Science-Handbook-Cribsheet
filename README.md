@@ -39,3 +39,4 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Intro to ML](05.01-What-Is-Machine-Learning.ipynb) | - | - |
 |[Intro to Scikit-Learn](05.02-Introducing-Scikit-Learn.ipynb) | - | - |
 |[Hyperparameters & Model Validation](05.03-Hyperparameters-and-Model-Validation.ipynb) | - | - |
+|[Feature Engineering](05.04-Feature-Engineering.ipynb)| DictVectorizer, get_feature_names, fit_transform, OneHotEncoder, FeatureHasher, CountVectorizer, TdifVectorizer, PolynomialFeatures, Imputer, make_pipeline | - |
