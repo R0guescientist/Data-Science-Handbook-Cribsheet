@@ -17,6 +17,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Pivot Tables](Pandas-Pivot-Tables.ipynb)| pivot_table(), cut(), qcut()  |   |
 |[Vectorized String Ops](Pandas-Vectorized-String-Ops.ipynb) | - | Hacked-up rev of Recipe DB example  |
 |Time Series placeholder | datetime64(), Timestamp(), DateTimeIndex(), Period(), TimeDelta(), to_datetime(), date_range(), pandas-datareader | Wait for [Google Finance URL bug fix](https://github.com/pydata/pandas-datareader/issues/426) |
+|[High Perf Ops](Pandas-Performance-Eval-and-Query.ipynb)| numexpr, eval(), query(), nbytes() | - |
 |     |     |     |
 |__Matploblib__ |-     |-     |
 |[Intro](Matplotlib-Intro.ipynb)   | - | -  |
