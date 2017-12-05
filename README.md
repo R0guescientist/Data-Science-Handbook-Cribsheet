@@ -16,6 +16,7 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Aggregation & Grouping](Pandas-Aggregation-and-Grouping.ipynb)| sum(), mean(), median(), describe(), groupby(), aggregate(), filter(), transform(), apply() |     |
 |[Pivot Tables](Pandas-Pivot-Tables.ipynb)| pivot_table(), cut(), qcut()  |   |
 |Vectorized String Ops| | - | Debug recipe db example |
+|Time Series placeholder | datetime64(), Timestamp(), DateTimeIndex(), Period(), TimeDelta(), to_datetime(), date_range(), pandas-datareader | Wait for [Google Finance URL bug fix](https://github.com/pydata/pandas-datareader/issues/426) |
 |     |     |     |
 |__Matploblib__ |-     |-     |
 |[Intro](Matplotlib-Intro.ipynb)   | - | -  |
