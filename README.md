@@ -42,3 +42,4 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
 |[Feature Engineering](05.04-Feature-Engineering.ipynb)| DictVectorizer, get_feature_names, fit_transform, OneHotEncoder, FeatureHasher, CountVectorizer, TdifVectorizer, PolynomialFeatures, Imputer, make_pipeline | - |
 |[Naive Bayes](05.05-Naive-Bayes.ipynb) | GaussianNB, predict_proba, MultinomialNB | - |
 |[Linear Regression](05.06-Linear-Regression.ipynb) | LinearRegression, PolynomialFeatures, Ridge, Lasso | - |
+|[Support Vector Machines](05.07-Support-Vector-Machines.ipynb) | - | - |
