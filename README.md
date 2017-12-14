@@ -86,13 +86,13 @@ Intro to Numpy, Pandas, Matplotlib and Scikit-Learn. Condensed from Python Data 
     <td></td>
     <td></td>
     <td>Geo data with Basemap</td>
-    <td>Kernel density estimation (KDE)</td></tr>
+     <td><strong>TO DO:</strong>Kernel density estimation (KDE)</td></tr>
    <tr>
     <td></td>
     <td></td>
     <td></td>
     <td>Visualization with Seaborn</td>
-    <td>Face detection pipeline</td></tr>
+     <td><strong>TO DO:</strong>Face detection pipeline</td></tr>
    <tr>
     <td></td>
     <td></td>
